@@ -1,0 +1,30 @@
+[
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "totRewardsByCus": 250,
+    "txnNum" :33424,
+    "txnDateTime": "01-01-2020"
+  },
+  {
+    "customerNo": 347,
+    "customerName": "Chris",
+    "totRewardsByCus": 475,
+    "txnNum" :42424,
+    "txnDateTime": "01-21-2020"
+  },
+  {
+    "customerNo": 347,
+    "customerName": "Jhon",
+    "totRewardsByCus": 794,
+    "txnNum" :82424,
+    "txnDateTime": "01-21-2020"
+  },
+    {
+    "customerNo": 347,
+    "customerName": "Mike",
+    "totRewardsByCus": 194,
+    "txnNum" :82424,
+    "txnDateTime": "01-21-2020"
+  }
+]

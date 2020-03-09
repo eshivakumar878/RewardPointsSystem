@@ -1,0 +1,148 @@
+[
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 120,
+    "txnNum" :33424,
+    "txnDateTime": "01-01-2020",
+    "month":"Jan",
+    "totalrewardPoints":"90"
+  },
+  {
+    "customerNo": 347,
+    "customerName": "Chris",
+    "txnAmount": 75,
+    "txnNum" :42424,
+    "txnDateTime": "01-21-2020",
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 347,
+    "customerName": "Chris",
+    "txnAmount": 94,
+    "txnNum" :82424,
+    "txnDateTime": "01-21-2020",
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 10,
+    "txnNum" :753489,
+    "txnDateTime": "06-01-2020",
+    "month":"Jan",
+    "totalrewardPoints":"0"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 75,
+    "txnNum" :49785,
+    "txnDateTime": "06-21-2020",
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 200,
+    "txnNum" :78352,
+    "txnDateTime": "07-01-2020"
+    ,
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 234,
+    "txnNum" : 7685,
+    "txnDateTime": "07-04-2020"
+    ,
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 80,
+    "txnNum" :90837,
+    "txnDateTime": "07-03-2020"
+  },
+  {
+    "customerNo": 234,
+    "customerName": "Shiva",
+    "txnAmount": 224,
+    "txnNum" :343634,
+    "txnDateTime": "07-21-2020"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 25,
+    "txnNum" :3214,
+    "txnDateTime": "01-01-2020",
+    "month":"Jan",
+    "totalrewardPoints":"0"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 75,
+    "txnNum" :32424,
+    "txnDateTime": "01-21-2020",
+    "month":"Jan",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 10,
+    "txnNum" :76853,
+    "txnDateTime": "02-01-2020",
+    "month":"Feb",
+    "totalrewardPoints":"0"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 75,
+    "txnNum" :23435,
+    "txnDateTime": "06-12-2019"
+    ,
+    "month":"Dec",
+    "totalrewardPoints":"50"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 200,
+    "txnNum" :10907,
+    "txnDateTime": "12-21-2019"
+      ,
+    "month":"Dec",
+    "totalrewardPoints":"250"
+  },
+  {
+    "customerNo": 76,
+    "customerName": "Jhon",
+    "txnAmount": 224,
+    "txnNum" :8768,
+    "txnDateTime": "12-11-2019"
+      ,
+    "month":"Nov",
+    "totalrewardPoints":"200"
+  },
+  {
+    "customerNo": 483,
+    "customerName": "Mike",
+    "txnAmount": 220,
+    "txnNum" :4545,
+    "txnDateTime": "29-02-2020"
+      ,
+    "month":"Feb",
+    "totalrewardPoints":"200"
+  }
+]
